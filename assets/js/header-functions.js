@@ -1,6 +1,6 @@
-function testCompute(expectedOutput, numberOfStars) {
-    test(expectedOutput, compute, numberOfStars);
-}
+// function testCompute(expectedOutput, numberOfStars) {
+//     test(expectedOutput, compute, numberOfStars);
+// }
 
 
 
